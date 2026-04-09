@@ -1,1 +1,1 @@
-worker: python bot.py
+worker: pip install python-telegram-bot==21.3 && python bot.py
